@@ -154,8 +154,42 @@
 
 // 17. დაწერეთ პროგრამა, რომელიც while ციკლით მასივში არსებული რიცხვების ჯამს გამოიანგარიშებს.
 
+// const numbers = [5, 10, 15, 20];
+// let sum = 0;
+// let i = 0;
+
+// while (i < numbers.length) {
+//   sum += numbers[i];
+//   i++;
+// }
+
+// console.log(sum);
+
 // 18. შექმენით ცვლადი რიცხვით 1 და while ციკლით იმატეთ 2-ით, სანამ რიცხვი არ მიაღწევს 20-ს.
+
+// let number = [1];
+
+// while (number <= 20) {
+//   console.log(number);
+//   number++;
+// }
 
 // 19. დაწერეთ პროგრამა, რომელიც while ციკლით რიცხვებს დაბეჭდავს 20-დან 10-მდე დაღმავალი თანმიმდევრობით.
 
+// let count = [20];
+
+// while (count > 9) {
+//   console.log(count);
+//   count--;
+// }
+
 // 20. დაწერეთ პროგრამა, რომელიც while ციკლით მასივში ყველა ობიექტს გამოიკვლევს და თითოეული მათგანის სახელს დაბეჭდავს.
+
+// const cars = [{ name: "bmw" }, { name: "mercedes" }, { name: "audi" }];
+
+// let i = 0;
+
+// while (i < cars.length) {
+//   console.log(cars[i].name);
+//   i++;
+// }
